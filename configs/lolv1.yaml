@@ -1,0 +1,11 @@
+dataset: LOL-v1
+seed: 42
+train_low: data/LOLv1/Train/input
+train_target: data/LOLv1/Train/target
+train_split: splits/lolv1/train.csv
+val_split: splits/lolv1/val.csv
+batch_size: 8
+crop_size: 256
+workers: 8
+total_steps: 100000
+validation_interval: 5000

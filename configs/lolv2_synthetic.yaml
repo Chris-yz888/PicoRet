@@ -1,0 +1,11 @@
+dataset: LOL-v2 Synthetic
+seed: 42
+train_low: data/LOLv2/Synthetic/Train/Low
+train_target: data/LOLv2/Synthetic/Train/Normal
+train_split: splits/lolv2_synthetic/train.csv
+val_split: splits/lolv2_synthetic/val.csv
+batch_size: 8
+crop_size: 256
+workers: 8
+total_steps: 100000
+validation_interval: 5000

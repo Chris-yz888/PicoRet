@@ -1,0 +1,2 @@
+cbcf8f3fa23cffba71f3850394250146053ac2c0fff1de0d94e748b64d1d43e1  weights/picoret_lolv1.pth
+306ec739279cb226ee86be6acd265c27e34ccb7bbcccdf8bfd99c2cc0cb5ef61  weights/picoret_lolv2_synthetic.pth
